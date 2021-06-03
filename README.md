@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/trello/trello-plain.svg" alt="Trello logo" width="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio logo" width="50px"/>
 
-<img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/030/919/original/result.png?1621807261" width="500px"/>
-<img src="https://github.com/kldscpcdev/kldscpcdev/blob/main/fcc%20cert.PNG?raw=true" width="500px"/>
+<img src="https://s3.amazonaws.com/shecodesio-production/students/certificates/000/030/919/original/result.png?1621807261" width="400px"/>
+<img src="https://github.com/kldscpcdev/kldscpcdev/blob/main/fcc%20cert.PNG?raw=true" width="400px"/>
 
 
 
