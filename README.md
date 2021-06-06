@@ -2,9 +2,10 @@
 - 👀 I’m interested in transitioning from a role in project controls into a role as a developer!
 - 🌱 I’m currently learning React, PHP, and jQuery.
 - 📫 Contact me at irecischavez@gmail.com
-- Check out my latest work:
+- 💡 Check out my latest work (click image to go to live site 💻)
 
 <a href="https://fun-pokedex-game.netlify.app/" target="_blank"><img src="https://github.com/kldscpcdev/kldscpcdev/blob/main/Screen%20Shot%202021-06-06%20at%203.14.41%20PM.png?raw=true" alt="Bootstrap logo" width="300px"/></a>
+<a href="https://neutral-modern-weather-app.netlify.app/" target="_blank"><img src="https://github.com/kldscpcdev/kldscpcdev/blob/main/Screen%20Shot%202021-06-06%20at%203.26.12%20PM.png?raw=true" alt="Bootstrap logo" width="315px"/></a>
 <!---
 kldscpcdev/kldscpcdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
